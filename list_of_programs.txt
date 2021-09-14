@@ -1,0 +1,11 @@
+vim
+tmux
+rdesktop
+python3
+ipython3
+nextcloud-desktop
+git
+code
+flameshot
+rhythmbox
+vlc

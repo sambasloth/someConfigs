@@ -1,0 +1,4 @@
+#!/bin/sh
+vboxmanage startvm Win10-Sharesync --type headless; 
+sleep 10;
+ sudo mount -t cifs -o credentials=/home/samba/.smb //10.20.30.100/sharesync/ /mnt/sharesync;
