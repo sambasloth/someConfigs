@@ -1,3 +1,0 @@
-#! /bin/sh
-
-nohup wine /home/samba/Downloads/winbox64.exe &
