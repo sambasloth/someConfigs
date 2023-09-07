@@ -1,0 +1,20 @@
+set nocompatible
+syntax enable
+filetype plugin on
+filetype plugin indent on
+"set list
+
+colorscheme sorbet
+
+"Tabs into Spaces
+set tabstop=4
+set shiftwidth=4
+set expandtab
+set modeline
+
+set hlsearch
+set number relativenumber
+
+"finding files
+set path+=**
+set wildmenu
