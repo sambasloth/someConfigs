@@ -1,3 +1,4 @@
+if [ -t 0 ] && [[ -z $TMUX ]] && [[ $- = *i* ]]; then exec tmux;fi
 # .bashrc
 
 # Source global definitions
